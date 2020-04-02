@@ -1,6 +1,6 @@
 require("dotenv").config();
 
 module.exports = {
-  mongoURI: process.env.MONGO_URL,
-  secretOrKey: process.env.MONGO_PASS
+  mongoURI: process.env.REACT_APP_MONGO_URL,
+  secretOrKey: process.env.REACT_APP_MONGO_PASS
 };
