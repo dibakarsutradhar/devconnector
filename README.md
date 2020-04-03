@@ -57,6 +57,7 @@ Check in browser on [http://localhost:5000/](http://localhost:5000/)
 ### Live Preview
 
 Check in browser on [http://devconnector-dibakar.herokuapp.com/]
+Check in browser on [https://devconnector.now.sh/]
 
 ## App Info
 
